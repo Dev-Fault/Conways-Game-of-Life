@@ -1,0 +1,14 @@
+C:\Users\blake\source\repos\ConewaysGameOfLife\bin\Debug\netcoreapp3.1\ConewaysGameOfLife.exe
+C:\Users\blake\source\repos\ConewaysGameOfLife\bin\Debug\netcoreapp3.1\ConewaysGameOfLife.deps.json
+C:\Users\blake\source\repos\ConewaysGameOfLife\bin\Debug\netcoreapp3.1\ConewaysGameOfLife.runtimeconfig.json
+C:\Users\blake\source\repos\ConewaysGameOfLife\bin\Debug\netcoreapp3.1\ConewaysGameOfLife.runtimeconfig.dev.json
+C:\Users\blake\source\repos\ConewaysGameOfLife\bin\Debug\netcoreapp3.1\ConewaysGameOfLife.dll
+C:\Users\blake\source\repos\ConewaysGameOfLife\bin\Debug\netcoreapp3.1\ConewaysGameOfLife.pdb
+C:\Users\blake\source\repos\ConewaysGameOfLife\obj\Debug\netcoreapp3.1\ConewaysGameOfLife.csproj.AssemblyReference.cache
+C:\Users\blake\source\repos\ConewaysGameOfLife\obj\Debug\netcoreapp3.1\ConewaysGameOfLife.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blake\source\repos\ConewaysGameOfLife\obj\Debug\netcoreapp3.1\ConewaysGameOfLife.AssemblyInfoInputs.cache
+C:\Users\blake\source\repos\ConewaysGameOfLife\obj\Debug\netcoreapp3.1\ConewaysGameOfLife.AssemblyInfo.cs
+C:\Users\blake\source\repos\ConewaysGameOfLife\obj\Debug\netcoreapp3.1\ConewaysGameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\blake\source\repos\ConewaysGameOfLife\obj\Debug\netcoreapp3.1\ConewaysGameOfLife.dll
+C:\Users\blake\source\repos\ConewaysGameOfLife\obj\Debug\netcoreapp3.1\ConewaysGameOfLife.pdb
+C:\Users\blake\source\repos\ConewaysGameOfLife\obj\Debug\netcoreapp3.1\ConewaysGameOfLife.genruntimeconfig.cache

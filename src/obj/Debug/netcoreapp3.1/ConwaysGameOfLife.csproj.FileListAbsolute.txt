@@ -1,0 +1,16 @@
+C:\Users\blake\source\repos\ConwaysGameOfLife\bin\Debug\netcoreapp3.1\ConwaysGameOfLife.exe
+C:\Users\blake\source\repos\ConwaysGameOfLife\bin\Debug\netcoreapp3.1\ConwaysGameOfLife.deps.json
+C:\Users\blake\source\repos\ConwaysGameOfLife\bin\Debug\netcoreapp3.1\ConwaysGameOfLife.runtimeconfig.json
+C:\Users\blake\source\repos\ConwaysGameOfLife\bin\Debug\netcoreapp3.1\ConwaysGameOfLife.runtimeconfig.dev.json
+C:\Users\blake\source\repos\ConwaysGameOfLife\bin\Debug\netcoreapp3.1\ConwaysGameOfLife.dll
+C:\Users\blake\source\repos\ConwaysGameOfLife\bin\Debug\netcoreapp3.1\ConwaysGameOfLife.pdb
+C:\Users\blake\source\repos\ConwaysGameOfLife\obj\Debug\netcoreapp3.1\ConwaysGameOfLife.csproj.AssemblyReference.cache
+C:\Users\blake\source\repos\ConwaysGameOfLife\obj\Debug\netcoreapp3.1\ConwaysGameOfLife.Properties.Resources.resources
+C:\Users\blake\source\repos\ConwaysGameOfLife\obj\Debug\netcoreapp3.1\ConwaysGameOfLife.csproj.GenerateResource.cache
+C:\Users\blake\source\repos\ConwaysGameOfLife\obj\Debug\netcoreapp3.1\ConwaysGameOfLife.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blake\source\repos\ConwaysGameOfLife\obj\Debug\netcoreapp3.1\ConwaysGameOfLife.AssemblyInfoInputs.cache
+C:\Users\blake\source\repos\ConwaysGameOfLife\obj\Debug\netcoreapp3.1\ConwaysGameOfLife.AssemblyInfo.cs
+C:\Users\blake\source\repos\ConwaysGameOfLife\obj\Debug\netcoreapp3.1\ConwaysGameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\blake\source\repos\ConwaysGameOfLife\obj\Debug\netcoreapp3.1\ConwaysGameOfLife.dll
+C:\Users\blake\source\repos\ConwaysGameOfLife\obj\Debug\netcoreapp3.1\ConwaysGameOfLife.pdb
+C:\Users\blake\source\repos\ConwaysGameOfLife\obj\Debug\netcoreapp3.1\ConwaysGameOfLife.genruntimeconfig.cache
